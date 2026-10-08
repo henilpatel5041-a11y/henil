@@ -1,0 +1,6 @@
+{
+  "name": "Serenity by Henil Patel",
+  "description": "A soothing stress relief app crafted by Henil Patel, featuring guided breathing pacers, tactile zen fidget toys, squishy stress ball, procedural ambient soundscapes, thought shredder, and mindful calm tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
